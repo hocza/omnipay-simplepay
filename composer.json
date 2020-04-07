@@ -1,5 +1,5 @@
 {
-    "name": "kylewetherald/omnipay-simplepay",
+    "name": "hocza/omnipay-simplepay",
     "type": "library",
     "description": "SimplePay driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,7 +10,7 @@
         "payment",
         "simplepay"
     ],
-    "homepage": "https://github.com/kylewetherald/omnipay-simplepay",
+    "homepage": "https://github.com/hocza/omnipay-simplepay",
     "license": "MIT",
     "autoload": {
         "psr-4": { "Omnipay\\SimplePay\\" : "src/" }
